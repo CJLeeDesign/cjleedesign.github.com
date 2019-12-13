@@ -67,7 +67,7 @@
 	<a href="Unicorns1.html"><button class="button">Unicorns!!</button></a>
 	<a href="FalseHope.html"><button class="button"> AltoCloud!!!</button></a>
 	<p>Pick the correct link to move to the next page.</p>
-<a href="Seals!.html"> <img src="../Assets/EverlastingTightIrishterrier-size_restricted.gif" alt="Cloud Gif"></a>
+<a href="Seals!.html"> <img src="EverlastingTightIrishterrier-size_restricted.gif"></a>
 	<a href="Final Page.html"><button class="hidden">Admin</button></a>
 	
 </body>
